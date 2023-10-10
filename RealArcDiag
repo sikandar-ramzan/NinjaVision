@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T11:52:32.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="v9EHaHMHinjfa2dSDoJi" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T11:55:10.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BwyLuyOfR3jHPvhJpbrR" version="22.0.4" type="github">
   <diagram name="Page-1" id="zUYSAXOE_HbijoId8BaD">
-    <mxGraphModel dx="3217" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R1m4APZx650SViAglO2N-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-434" y="248" as="sourcePoint" />
-            <mxPoint x="-434" y="328" as="targetPoint" />
+            <mxPoint x="-431" y="261" as="sourcePoint" />
+            <mxPoint x="-431" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-514" y="485" width="160" height="80" as="geometry" />
+          <mxGeometry x="-511" y="498" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="R1m4APZx650SViAglO2N-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-49" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-599" y="50" width="330.64" height="215" as="geometry" />
+          <mxGeometry x="-596" y="63" width="330.64" height="215" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=180;fillColor=none;dashed=1;container=0;" vertex="1" parent="R1m4APZx650SViAglO2N-49">
           <mxGeometry y="30" width="330.64" height="155" as="geometry" />
@@ -60,27 +60,27 @@
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-55" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=-0.038;exitY=0.523;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-257.7956799999997" y="168.24500000000012" as="sourcePoint" />
-            <mxPoint x="-161" y="168" as="targetPoint" />
+            <mxPoint x="-254.79567999999972" y="181.24500000000012" as="sourcePoint" />
+            <mxPoint x="-158" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-56" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
-          <mxGeometry x="-808" y="121.25" width="84.5" height="84.5" as="geometry" />
+          <mxGeometry x="-805" y="134.25" width="84.5" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-58" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=-0.038;exitY=0.523;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-612.2" y="171.67" as="sourcePoint" />
-            <mxPoint x="-708.9956799999998" y="171.9150000000001" as="targetPoint" />
+            <mxPoint x="-609.2" y="184.67" as="sourcePoint" />
+            <mxPoint x="-705.9956799999998" y="184.9150000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-32" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Load Balancer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-498.99666666666667" y="338" width="130" height="30" as="geometry" />
+          <mxGeometry x="-495.99666666666667" y="351" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-63" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elastic_load_balancing;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-483" y="367.8" width="98" height="98" as="geometry" />
+          <mxGeometry x="-480" y="380.8" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-64" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-148.005" y="121.25" width="123.25" height="102.5" as="geometry" />
+          <mxGeometry x="-145.005" y="134.25" width="123.25" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-50" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/CDN_Profiles.svg;container=0;" vertex="1" parent="R1m4APZx650SViAglO2N-64">
           <mxGeometry width="123.25" height="72.5" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="38.625" y="72.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-86" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-525.01" y="783" width="182.02" height="130" as="geometry" />
+          <mxGeometry x="-522.01" y="796" width="182.02" height="130" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="R1m4APZx650SViAglO2N-86">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-91" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-651" y="914" width="454.68" height="173" as="geometry" />
+          <mxGeometry x="-648" y="927" width="454.68" height="173" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-81" value="" style="group" vertex="1" connectable="0" parent="R1m4APZx650SViAglO2N-91">
           <mxGeometry y="30" width="454.68" height="143" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="177.34" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-93" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-629" y="585" width="390.64" height="187" as="geometry" />
+          <mxGeometry x="-626" y="598" width="390.64" height="187" as="geometry" />
         </mxCell>
         <mxCell id="R1m4APZx650SViAglO2N-36" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Servers&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="R1m4APZx650SViAglO2N-93">
           <mxGeometry x="155.32" width="80" height="30" as="geometry" />
